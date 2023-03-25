@@ -1,2 +1,8 @@
-node_modules
-package-lock.json
+# dependencies
+/node_modules
+
+# editors
+.cache/
+dist/
+.vscode/
+.DS_Store
